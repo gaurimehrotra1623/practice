@@ -1,0 +1,41 @@
+th, td{
+    border: 2px solid;
+    border-color:black;
+}
+table{
+    border-collapse: collapse;
+    font-size:30px;
+}
+tbody tr:nth-child(1){
+    background-color: pink;
+    color:rgb(204, 23, 53)
+}
+tbody tr:nth-child(2){
+    background-color: lavender;
+    color:blueviolet
+}
+tbody tr:nth-child(3){
+    background-color: turquoise;
+    color:rgb(4, 82, 4)
+}
+tbody tr:nth-child(4){
+    background-color: yellow;
+    color:rgb(208, 114, 0)
+}
+tbody tr:nth-child(5){
+    background-color: green;
+    color:yellowgreen;
+}
+thead tr{
+    font-style: italic;
+    background-color: antiquewhite;
+    color:rgb(152, 49, 12)
+}
+caption{
+    font-family:cursive;
+    font-style:italic;
+    background-color: palevioletred;
+    color:whitesmoke;
+    font-size:40px;
+}
+

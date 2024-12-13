@@ -1,0 +1,36 @@
+input{
+    width:250px;
+    border-radius: 20px;
+    padding:10px;
+    margin-top:4px;
+    font-size:15px
+}
+input[type="radio"]{
+    width:50px;
+    border-radius: 20px;
+    padding:10px;
+    margin-top:4px;
+    font-size:15px
+}
+.mt10{
+    margin-top:50px;
+    margin-bottom:50px;
+}
+.mt20{
+    margin-top:50px
+}
+.mt50{
+    margin-top:50px;
+}
+.mt60{
+    margin-top: 50px;;
+}
+.mt80{
+    margin-top:50px;
+}
+.mt100{
+    margin-top: 50px;
+}
+.blablabla{
+    margin-top: 50px;
+}
